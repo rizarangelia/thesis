@@ -1,0 +1,15 @@
+# Dataset raw perusahaan - jangan dipush
+Dataset_Thesis4.xlsx
+
+# ChromaDB (besar, generated)
+chroma_db_rag/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Env
+.env
+*.env

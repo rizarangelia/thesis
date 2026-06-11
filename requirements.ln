@@ -1,0 +1,15 @@
+sentence-transformers
+chromadb
+transformers
+keras
+protobuf
+tensorflow
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+openpyxl 
+jupyter

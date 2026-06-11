@@ -1,0 +1,72 @@
+true_label,teks_final,pred_final,correct,pred_run1,pred_run2,pred_run3,pred_run4,pred_run5
+Non TBC,"[DESKRIPSI]: Terdapat charger laptop dalam keadaan kabel terbuka dan terkelupas [LOKASI]: EKSPLORASI GURIMBANG, AREA AKTIFITAS SURVEY",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Tali tambat buritan belum di rapikan [LOKASI]: Towing Tug, TB PANCARAN 311",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Terdapat tumpukan material tidak disimpan pada tempat yang sudah disediakan [LOKASI]: Crusher 02 dan OLC, Tunnel",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Berdebu tebal [LOKASI]: Pit East 1, Akses Mine Road",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Batu bara tumpah [LOKASI]: CPP Binungan, TLC CPP Bin BC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,"[DESKRIPSI]: Penerangan kurang [LOKASI]: Pit East 2, Loading Point Coal",4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,True,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur
+Non TBC,"[DESKRIPSI]: Kassa turbo kotor [LOKASI]: Towing Tug, TB PERKASA 2",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,[DESKRIPSI]: Tampungan berisi berada di tempat terbuka agar segera dipindah ke tempat tertutup [LOKASI]: Workshop MTN 056,Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Apar belum di inspeksi [LOKASI]: Main Workshop Pama, Bays 1 (Wheel)",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Belum ada rambu di persimpangan disposal [LOKASI]: Project Diversion Selatan PAMA, Front Dumping Disposal PAMA",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,[DESKRIPSI]: tumpahan oli di slewing crane licin,Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Buang sampah absorbent ke tempat B3 [LOKASI]: (B PMO) Workshop, Workshop Temporary KDC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Sampah belum diangkut [LOKASI]: Change shift Barokah LD/DT, Akses Jalan Change Shift",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: komputer tidak dimatikan ketika selesai bekerja [LOKASI]: (B8) Infrastucture Tambang, Office Champion",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Label APAR tidak terpasang [LOKASI]: Towing Tug, TB KSA 35",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Penutup smoke detector di salon belum di lepas [LOKASI]: Towing Tug, TB KSA 73",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Belum terpasang rambu di muara simpang front 6015_03&6015_25 [LOKASI]: Pit PQRT, Front Loading",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Strainer Air laut ME Kotor [LOKASI]: Towing Tug, TB KSA 160",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+5. Deviasi Loading/Dumping,[DESKRIPSI]: Ban menyentuh tanggil,Non TBC,False,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Opt c7160 fatique [LOKASI]: Pit PQRT, Parking Area/ HSSC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Kondisi jalan pit j barat berdebu [LOKASI]: (B8) Pit J, Front Loading OB",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Kondisi tangga pompa rusak tidak pada posisinya [LOKASI]: Aktivitas Area High Risk, IKDW Stage 4 KDC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Rumput lebat di tanaman buah-buahan berpotensi terdapat sarang ular dan penyengat [LOKASI]: Office CPP PT BC, Infrastruktur Office BC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Ditemukan rambu STOP rebah di akses keluar office, yg berpotensi unit melanggar rambu tsb, dikarenakan rambu rebah dan tidak terlihat [LOKASI]: (B PMO) Office, Office KDC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Isi kotak P3K tidak lengkap [LOKASI]: (B PMO) Office, Office KDC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+14. Technology,"[DESKRIPSI]: Terdapat Cctv pada area pit gurimbang utara tidak aktif [LOKASI]: Office Mining PT BC, Infrastruktur Office BC",Non TBC,False,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+5. Deviasi Loading/Dumping,"[DESKRIPSI]: Tanggul disposal Ipd ch belum standart [LOKASI]: (B8) Pit CH, Disposal Kering IPD CH",Non TBC,False,Non TBC,Non TBC,Non TBC,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,Non TBC
+Non TBC,"[DESKRIPSI]: Terdapat mata gerinda yang sudah limit atau tidak layak [LOKASI]: Workshop BMC, Bays Maintenance",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+6. Tidak terdapat pengawas/pengawas tidak memadai,[DESKRIPSI]: Pengawas non HR di area HR,Non TBC,False,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+5. Deviasi Loading/Dumping,"[DESKRIPSI]: terdapat bendera batas dumping/dumping limiter tidak update [LOKASI]: Project Rehandling Soil OPP, Disposal",Non TBC,False,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: (IT) lampu mayang PM 130 mati [LOKASI]: (B8) Infrastucture Tambang, Office Champion",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Wilnat LV 111 kurang satu [LOKASI]: Office MTL, Office Cokelat",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Jalan berdebu [LOKASI]: (B PMO) Hauling Road, Jalan Hauling Agatis KDC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+11. Bahaya Elektrikal,"[DESKRIPSI]: Instalasi AC ( TBC) elektrik [LOKASI]: (B8) Workshop Champoin, Bays Champions",11. Bahaya Elektrikal,True,11. Bahaya Elektrikal,11. Bahaya Elektrikal,11. Bahaya Elektrikal,11. Bahaya Elektrikal,11. Bahaya Elektrikal
+Non TBC,"[DESKRIPSI]: lampu dalam anjungan mati [LOKASI]: Towing Tug, TB DSL 07",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: waktunya ganti filter racor ME [LOKASI]: Towing Tug, TB KSA 29",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: charger tidak dilepas ketika selesai digunakan [LOKASI]: (B8) Infrastucture Tambang, Office Champion",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+12. Bahaya Biologis,"[DESKRIPSI]: Terdapat tanaman merambat dan rumput liar lebat yanh yang berpotensi menjadi sarang ular [LOKASI]: Office PT KDC, Akses dan Infrastruktur Office KDC",Non TBC,False,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Ditemukan rambu rebah [LOKASI]: (B PMO) Project, Project Underpass BC PMO",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+5. Deviasi Loading/Dumping,"[DESKRIPSI]: Dump limiter belum terupdate [LOKASI]: Pit West, Front Dumping",5. Deviasi Loading/Dumping,True,5. Deviasi Loading/Dumping,5. Deviasi Loading/Dumping,5. Deviasi Loading/Dumping,5. Deviasi Loading/Dumping,5. Deviasi Loading/Dumping
+Non TBC,"[DESKRIPSI]: Ember bukan tempatnya [LOKASI]: Towing Tug, TB KSA 105",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Genset Towerlamp 192 belum di lengkapi dengan APAR [LOKASI]: ROM Central, Parkiran Unit",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,[DESKRIPSI]: sampah tidak di buang pada tempatnya [LOKASI]: [BUMA] Mess Kalimantan,Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Safety line lepas [LOKASI]: (B8) Area Kritis Blok 8, (B8) Drill & Blast",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Jalan lombok undulating [LOKASI]: (B8) Road Management, Jln. Lombok",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Buggy whip robek, segera diganti [LOKASI]: Project Mess PAMA",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Dumping tumpuk tumpuk [LOKASI]: Handling Soil East KDC, Dumping Stocksoil East KDC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: cover lampu rusak [LOKASI]: Floating Crane, CTS Bulk Sumatera",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,[DESKRIPSI]: Terdapat hose angin melintang di bay workshop tidak di rapikan berpotensi terinjak unit dan mengenai pekerja [LOKASI]: Workshop Meteorit C2HU,Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,"[DESKRIPSI]: Penerangan area front loading EX 213 tidak standar [LOKASI]: Pit East 2, Loading Point Coal",4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,True,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur,4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur
+Non TBC,"[DESKRIPSI]: Lobang bor belum di sonding [LOKASI]: (B8) Area Kritis Blok 8, (B8) Drill & Blast",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: TH 002 KIP APAR bulan februari belum di Inspeksi [LOKASI]: (B PMO) Workshop, Workshop Temporary KDC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Tali mengganggu jalan ditongkang [LOKASI]: Towing Tug, TB BERAU 22",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Terdapat Coal Oversize Pada Dumpingan PTR di Rom 3 [LOKASI]: (B PMO) ROM, ROM 3 KDC",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,[DESKRIPSI]: terdapat ceceran oli di lantai workshop setelah perbaikan [LOKASI]: Workshop MIJ,Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Lubang ledak belum disounding [LOKASI]: (B8) Road Management, Jln. Anyer",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Apar tw 242 belum di inspeksi du bulan Februari [LOKASI]: Workshop Fabrikasi Pama, Bays SSE",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Tempat sampa tidak ada label [LOKASI]: Towing Tug, TB KSA 73",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Bolham lampu engine room putus [LOKASI]: Towing Tug, TB PANCARAN 613",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Terdapat spoil di area akses [LOKASI]: Area Revegetasi, Project Akatara",12. Bahaya Biologis,False,12. Bahaya Biologis,12. Bahaya Biologis,12. Bahaya Biologis,12. Bahaya Biologis,12. Bahaya Biologis
+Non TBC,"[DESKRIPSI]: Sampah tidak di buang pada tempatnya [LOKASI]: (B8) Workshop Temporary MIJ, Open Yard MIJ",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: komunikasi crowded [LOKASI]: (B8) Pit CD, Disposal",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,[DESKRIPSI]: Temuan sampah dibuang tidak pada tempatnya [LOKASI]: Warehouse PT. BC SMO,Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,[DESKRIPSI]: Sepatu tidak di rapikan [LOKASI]: Warehouse MTL,Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Balon lampu bukan pada tempatnya [LOKASI]: Towing Tug, TB KSA 105",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Jalan berdebu perlu penyiraman [LOKASI]: (B8) Pit J, Disposal",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Lampuh belakang loader mati [LOKASI]: Floating Crane, Heavy Equipment",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Grizzly tersumbat [LOKASI]: Coal Crushing Plant (CPP), Akses Jalan area CPP",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Tumpukan batubara di area tripper [LOKASI]: Floating Crane, FLF Ocean Flow",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Lap kaki tidak pada tempatnya [LOKASI]: Towing Tug, TB KSA 159",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
+Non TBC,"[DESKRIPSI]: Demarkasi cctv rusak [LOKASI]: (B PMO) Project, Project Underpass BC PMO",Non TBC,True,Non TBC,Non TBC,Non TBC,Non TBC,Non TBC
