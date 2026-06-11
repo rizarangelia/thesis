@@ -1,0 +1,259 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Paritan buntu",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 1",
+      "id": "dataset_thesis4_8237826",
+      "community": 1,
+      "norm_label": "paritan buntu"
+    },
+    {
+      "label": "Label fire alarm tidak ada",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 2",
+      "id": "dataset_thesis4_8237130",
+      "community": 3,
+      "norm_label": "label fire alarm tidak ada"
+    },
+    {
+      "label": "Tali seken towing",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 3",
+      "id": "dataset_thesis4_8239327",
+      "community": 13,
+      "norm_label": "tali seken towing"
+    },
+    {
+      "label": "Jln kosongan undulating",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 4",
+      "id": "dataset_thesis4_8237769",
+      "community": 0,
+      "norm_label": "jln kosongan undulating"
+    },
+    {
+      "label": "Sampah penuh",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 7",
+      "id": "dataset_thesis4_8235410",
+      "community": 8,
+      "norm_label": "sampah penuh"
+    },
+    {
+      "label": "Debu tebal arah rom 24",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 10",
+      "id": "dataset_thesis4_8237112",
+      "community": 2,
+      "norm_label": "debu tebal arah rom 24"
+    },
+    {
+      "label": "Head down",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 11",
+      "id": "dataset_thesis4_8235077",
+      "community": 7,
+      "norm_label": "head down"
+    },
+    {
+      "label": "Batu bara oversize",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 13",
+      "id": "dataset_thesis4_8240607",
+      "community": 4,
+      "norm_label": "batu bara oversize"
+    },
+    {
+      "label": "Cas hp lupa di cabut",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 18",
+      "id": "dataset_thesis4_8237037",
+      "community": 10,
+      "norm_label": "cas hp lupa di cabut"
+    },
+    {
+      "label": "Posisi pos pengawas terlalu dekat",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 34",
+      "id": "dataset_thesis4_8200653",
+      "community": 6,
+      "norm_label": "posisi pos pengawas terlalu dekat"
+    },
+    {
+      "label": "Bekerja pada ketinggian tanpa anchor kuat",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 36",
+      "id": "dataset_thesis4_7143261",
+      "community": 5,
+      "norm_label": "bekerja pada ketinggian tanpa anchor kuat"
+    },
+    {
+      "label": "Operator yawning",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 38",
+      "id": "dataset_thesis4_8238851",
+      "community": 11,
+      "norm_label": "operator yawning"
+    },
+    {
+      "label": "Nasi sudah basi",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 41",
+      "id": "dataset_thesis4_8236100",
+      "community": 9,
+      "norm_label": "nasi sudah basi"
+    },
+    {
+      "label": "Windrow tertutup lumpur",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 71",
+      "id": "dataset_thesis4_8238560",
+      "community": 0,
+      "norm_label": "windrow tertutup lumpur"
+    },
+    {
+      "label": "Belum terdapat acuan crest",
+      "file_type": "document",
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source_location": "row 98",
+      "id": "dataset_thesis4_8238971",
+      "community": 12,
+      "norm_label": "belum terdapat acuan crest"
+    },
+    {
+      "label": "Mess Pama",
+      "file_type": "concept",
+      "id": "location_mess_pama",
+      "community": 1,
+      "norm_label": "mess pama"
+    },
+    {
+      "label": "Towing Tug",
+      "file_type": "concept",
+      "id": "location_towing_tug",
+      "community": 3,
+      "norm_label": "towing tug"
+    },
+    {
+      "label": "Pit PQRT",
+      "file_type": "concept",
+      "id": "location_pit_pqrt",
+      "community": 0,
+      "norm_label": "pit pqrt"
+    },
+    {
+      "label": "CPP Binungan",
+      "file_type": "concept",
+      "id": "location_cpp_binungan",
+      "community": 4,
+      "norm_label": "cpp binungan"
+    },
+    {
+      "label": "Kelayakan Bangunan",
+      "file_type": "concept",
+      "id": "category_kelayakan_bangunan",
+      "community": 1,
+      "norm_label": "kelayakan bangunan"
+    },
+    {
+      "label": "Perawatan Jalan",
+      "file_type": "concept",
+      "id": "category_perawatan_jalan",
+      "community": 0,
+      "norm_label": "perawatan jalan"
+    },
+    {
+      "label": "Lingkungan Kerja",
+      "file_type": "concept",
+      "id": "category_lingkungan_kerja",
+      "community": 2,
+      "norm_label": "lingkungan kerja"
+    }
+  ],
+  "links": [
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source": "dataset_thesis4_8237826",
+      "target": "category_kelayakan_bangunan"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source": "dataset_thesis4_8237826",
+      "target": "location_mess_pama"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source": "dataset_thesis4_8237130",
+      "target": "location_towing_tug"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source": "dataset_thesis4_8237769",
+      "target": "category_perawatan_jalan"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source": "dataset_thesis4_8237769",
+      "target": "location_pit_pqrt"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source": "dataset_thesis4_8237112",
+      "target": "category_lingkungan_kerja"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source": "dataset_thesis4_8240607",
+      "target": "location_cpp_binungan"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "graphify-out/converted/Dataset_Thesis4_75524377.md",
+      "source": "dataset_thesis4_8238560",
+      "target": "category_perawatan_jalan"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "c3170b2be894b4e546f6069d7efcd5900c504628"
+}

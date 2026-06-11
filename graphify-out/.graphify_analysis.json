@@ -1,0 +1,127 @@
+{
+  "communities": {
+    "0": [
+      "category_perawatan_jalan",
+      "dataset_thesis4_8237769",
+      "dataset_thesis4_8238560",
+      "location_pit_pqrt"
+    ],
+    "1": [
+      "category_kelayakan_bangunan",
+      "dataset_thesis4_8237826",
+      "location_mess_pama"
+    ],
+    "2": [
+      "category_lingkungan_kerja",
+      "dataset_thesis4_8237112"
+    ],
+    "3": [
+      "dataset_thesis4_8237130",
+      "location_towing_tug"
+    ],
+    "4": [
+      "dataset_thesis4_8240607",
+      "location_cpp_binungan"
+    ],
+    "5": [
+      "dataset_thesis4_7143261"
+    ],
+    "6": [
+      "dataset_thesis4_8200653"
+    ],
+    "7": [
+      "dataset_thesis4_8235077"
+    ],
+    "8": [
+      "dataset_thesis4_8235410"
+    ],
+    "9": [
+      "dataset_thesis4_8236100"
+    ],
+    "10": [
+      "dataset_thesis4_8237037"
+    ],
+    "11": [
+      "dataset_thesis4_8238851"
+    ],
+    "12": [
+      "dataset_thesis4_8238971"
+    ],
+    "13": [
+      "dataset_thesis4_8239327"
+    ]
+  },
+  "cohesion": {
+    "0": 0.5,
+    "1": 0.6666666666666666,
+    "2": 1.0,
+    "3": 1.0,
+    "4": 1.0,
+    "5": 1.0,
+    "6": 1.0,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0
+  },
+  "gods": [
+    {
+      "id": "dataset_thesis4_8237826",
+      "label": "Paritan buntu",
+      "degree": 2
+    },
+    {
+      "id": "dataset_thesis4_8237769",
+      "label": "Jln kosongan undulating",
+      "degree": 2
+    },
+    {
+      "id": "dataset_thesis4_8237130",
+      "label": "Label fire alarm tidak ada",
+      "degree": 1
+    },
+    {
+      "id": "dataset_thesis4_8237112",
+      "label": "Debu tebal arah rom 24",
+      "degree": 1
+    },
+    {
+      "id": "dataset_thesis4_8240607",
+      "label": "Batu bara oversize",
+      "degree": 1
+    },
+    {
+      "id": "dataset_thesis4_8238560",
+      "label": "Windrow tertutup lumpur",
+      "degree": 1
+    },
+    {
+      "id": "dataset_thesis4_8239327",
+      "label": "Tali seken towing",
+      "degree": 0
+    },
+    {
+      "id": "dataset_thesis4_8235410",
+      "label": "Sampah penuh",
+      "degree": 0
+    },
+    {
+      "id": "dataset_thesis4_8235077",
+      "label": "Head down",
+      "degree": 0
+    },
+    {
+      "id": "dataset_thesis4_8237037",
+      "label": "Cas hp lupa di cabut",
+      "degree": 0
+    }
+  ],
+  "surprises": [],
+  "tokens": {
+    "input": 7673,
+    "output": 2481
+  }
+}
