@@ -1,0 +1,198 @@
+[
+  {
+    "doc_id": "def_1_deviasi",
+    "label": "1. Deviasi pengoperasian kendaraan/unit",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 1. Deviasi pengoperasian kendaraan/unit\n\nTemuan yang termasuk kategori ini:\n- Pengoperasian unit tanpa SIMPER\n- Tidak menggunakan seatbelt\n- Penyiraman tidak putus - putus pada Tanjakan dan Turunan\n- Membawa HP ke dalam unit Hauler dan A2B\n- Tidak dilakukan pemeriksaan Crack Test Kendaraan Transport\n- Tidak membunyikan klakson maju/mundur\n- Driver tidak Speak Up Self Declare\n- Fatigue (yawning, microsleep, closed eyes, dsb)\n- Tidak menjaga jarak beriringan unit saat beroperasi / antri\n- Tidak melakukan P2H / Pelaksanaan P2H Tidak Sesuai\n- Seatbelt Rusak dari Hasil Inspeksi (Diluar temuan P2H)\n- Meninggalkan unit dalam kondisi unit masih menyala\n- Melakukan aktivitas lain (menggunakan headset/menggunakan handphone/makan/minum/merokok/memberi barang dari atau ke unit lain)\n- Unit tidak komunikasi 2 arah\n- Pengoperasian unit yang tidak layak operasi (kondisi tyre tidak memadai, pengereman tidak berfungsi, tidak dilengkapi radio komunikasi)\n- Jam Tidur kurang 6 Jam saat Verifikasi Fit To Work\n- Melintas pada jalur berlawanan\n- Memodifikasi alat keselamatan pada unit\n- Overspeed"
+  },
+  {
+    "doc_id": "kw_1_deviasi",
+    "label": "1. Deviasi pengoperasian kendaraan/unit",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 1. Deviasi pengoperasian kendaraan/unit\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Fatigue (yawning, microsleep, closed eyes, dsb)\n- Melakukan aktivitas lain (menggunakan headset/menggunakan handphone/makan/minum/merokok/memberi barang dari atau ke unit lain)\n- Pengoperasian unit yang tidak layak operasi (kondisi tyre tidak memadai, pengereman tidak berfungsi, tidak dilengkapi radio komunikasi)\n- Unit tidak komunikasi 2 arah\n- Tidak menjaga jarak beriringan unit saat beroperasi / antri\n- Overspeed\n- Melintas pada jalur berlawanan\n- Membawa HP ke dalam unit Hauler dan A2B\n- Jam Tidur kurang 6 Jam saat Verifikasi Fit To Work\n- Seatbelt Rusak dari Hasil Inspeksi (Diluar temuan P2H)\n- Tidak dilakukan pemeriksaan Crack Test Kendaraan Transport\n- Tidak membunyikan klakson maju/mundur\n- Driver tidak Speak Up Self Declare\n- Penyiraman tidak putus - putus pada Tanjakan dan Turunan\n\nIndikator PSPP (pelanggaran standar/prosedur parah):\n- Melakukan aktivitas lain (menggunakan headset/menggunakan handphone/makan/minum/merokok/memberi barang dari atau ke unit lain)\n- Tidak melakukan P2H / Pelaksanaan P2H Tidak Sesuai\n- Overspeed\n- Meninggalkan unit dalam kondisi unit masih menyala\n\nIndikator Golden Rule (potensi fatality/cedera berat):\n- Melakukan aktivitas lain (menggunakan headset/menggunakan handphone/makan/minum/merokok/memberi barang dari atau ke unit lain)\n- Tidak menggunakan seatbelt\n- Pengoperasian unit yang tidak layak operasi (kondisi tyre tidak memadai, pengereman tidak berfungsi, tidak dilengkapi radio komunikasi)\n- Pengoperasian unit tanpa SIMPER\n- Overspeed\n- Memodifikasi alat keselamatan pada unit\n"
+  },
+  {
+    "doc_id": "def_2_deviasi",
+    "label": "2. Deviasi penggunaan APD",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 2. Deviasi penggunaan APD\n\nTemuan yang termasuk kategori ini:\n- Bekerja di ketinggian lebih dari 1,8 m tanpa body harness + double lanyard yang dikaitkan\n- Ditemukan kondisi APD yang tidak layak (walau belum digunakan)\n- Tidak memasang welding screen saat aktivitas welding\n- Berada di dekat air tanpa menggunakan pelampung\n- Tidak menggunakan APD yang sesuai / dengan benar / layak"
+  },
+  {
+    "doc_id": "kw_2_deviasi",
+    "label": "2. Deviasi penggunaan APD",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 2. Deviasi penggunaan APD\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Tidak menggunakan APD yang sesuai / dengan benar / layak\n- Ditemukan kondisi APD yang tidak layak (walau belum digunakan)\n- Tidak memasang welding screen saat aktivitas welding\n\nIndikator Golden Rule (potensi fatality/cedera berat):\n- Berada di dekat air tanpa menggunakan pelampung\n- Bekerja di ketinggian lebih dari 1,8 m tanpa body harness + double lanyard yang dikaitkan\n"
+  },
+  {
+    "doc_id": "def_3_geotech",
+    "label": "3. Geotech & Hydrology",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 3. Geotech & Hydrology\n\nTemuan yang termasuk kategori ini:\n- Aktivitas penambangan pada area yang tidak memenuhi faktor keamanan sesuai rekomendasi kajian geoteknik\n- Tidak dilakukan pemantauan kestabilan lereng tambang dan timbunan\n- Retakan\n- Tidak terdapat kajian Geoteknik pada area kerja dengan risiko Geoteknik yang sudah berjalan\n- Terdapat potensi bahaya yang dapat mengakibatkan isu geoteknik / hidrologi di area tambang yang dapat membahayakan pekerja\n- Penempatan lokasi prasarana pada radius area rawan longsor\n- Landslide"
+  },
+  {
+    "doc_id": "kw_3_geotech",
+    "label": "3. Geotech & Hydrology",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 3. Geotech & Hydrology\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Penempatan lokasi prasarana pada radius area rawan longsor\n- Retakan\n- Aktivitas penambangan pada area yang tidak memenuhi faktor keamanan sesuai rekomendasi kajian geoteknik\n- Tidak terdapat kajian Geoteknik pada area kerja dengan risiko Geoteknik yang sudah berjalan\n- Tidak dilakukan pemantauan kestabilan lereng tambang dan timbunan\n- Terdapat potensi bahaya yang dapat mengakibatkan isu geoteknik / hidrologi di area tambang yang dapat membahayakan pekerja\n\nIndikator Incident (berkaitan langsung kejadian kecelakaan):\n- Landslide"
+  },
+  {
+    "doc_id": "def_4_posisi_",
+    "label": "4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur\n\nTemuan yang termasuk kategori ini:\n- Pengelasan velg tanpa melepas ban unit\n- Buang Air Kecil dari Atas Unit\n- Turun dari unit tidak memperhatikan 3 titik tumpu\n- Tidur di disposal / area tambang terbuka\n- Pekerja berada pada radius manuver unit\n- Berada di luar kabin/pos/pondok pada area tambang\n- Berada pada jarak <6 meter (untuk tyreman) dan <10 meter (untuk selain tyreman) saat pemompaan tyre\n- Pekerja (Operator dan Pengawas) baru <1 Tahun bekerja di Area Highrisk\n- Pekerjaan dilakukan pada area tidak memadai (ruang kerja sempit, area kerja tidak sesuai, kurang pencahayaan)\n- Tidak turun dari unit saat proses penyebrangan\n- Berenang di sump\n- Berada di atas crest atau tanggul dengan beda tinggi\n- Berada di dibawah beban yang sedang diangkat/di bawah unit yang sedang dimaintenance yang berpotensi menimbulkan bahaya/berada pada radius manuver unit\n- Berpijak pada tempat yang tidak semestinya\n- Berada dalam jarak < 1,5x tebing/dinding galian\n- Memasuki area khusus tanpa izin (blasting, land clearing, etc)"
+  },
+  {
+    "doc_id": "kw_4_posisi_",
+    "label": "4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 4. Posisi Pekerja pada Area Tidak aman/Tidak Sesuai Prosedur\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Berada di luar kabin/pos/pondok pada area tambang\n- Berpijak pada tempat yang tidak semestinya\n- Turun dari unit tidak memperhatikan 3 titik tumpu\n- Berada dalam jarak < 1,5x tebing/dinding galian\n- Memasuki area khusus tanpa izin (blasting, land clearing, etc)\n- Tidak turun dari unit saat proses penyebrangan\n- Berada pada jarak <6 meter (untuk tyreman) dan <10 meter (untuk selain tyreman) saat pemompaan tyre\n- Pekerjaan dilakukan pada area tidak memadai (ruang kerja sempit, area kerja tidak sesuai, kurang pencahayaan)\n- Pengelasan velg tanpa melepas ban unit\n- Pekerja (Operator dan Pengawas) baru <1 Tahun bekerja di Area Highrisk\n\nIndikator PSPP (pelanggaran standar/prosedur parah):\n- Buang Air Kecil dari Atas Unit\n\nIndikator Golden Rule (potensi fatality/cedera berat):\n- Berada dalam jarak < 1,5x tebing/dinding galian\n- Berada di atas crest atau tanggul dengan beda tinggi\n- Berenang di sump\n- Memasuki area khusus tanpa izin (blasting, land clearing, etc)\n- Tidur di disposal / area tambang terbuka\n- Pekerja berada pada radius manuver unit\n- Berada di dibawah beban yang sedang diangkat/di bawah unit yang sedang dimaintenance yang berpotensi menimbulkan bahaya/berada pada radius manuver unit\n"
+  },
+  {
+    "doc_id": "def_5_deviasi",
+    "label": "5. Deviasi Loading/Dumping",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 5. Deviasi Loading/Dumping\n\nTemuan yang termasuk kategori ini:\n- Undercut\n- Tidak ada tanggul pengaman pada Top Loading\n- Jarak dumping kurang dari 20m (rawa), 10m (air), 4-5m (kering)\n- Dumping menyentuh/menaiki tanggul\n- Batas dumping tidak ada/tidak diupdate\n- Material/dinding galian melebihi tinggi kabin"
+  },
+  {
+    "doc_id": "kw_5_deviasi",
+    "label": "5. Deviasi Loading/Dumping",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 5. Deviasi Loading/Dumping\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Jarak dumping kurang dari 20m (rawa), 10m (air), 4-5m (kering)\n- Dumping menyentuh/menaiki tanggul\n- Material/dinding galian melebihi tinggi kabin\n- Tidak ada tanggul pengaman pada Top Loading\n- Batas dumping tidak ada/tidak diupdate\n\nIndikator Golden Rule (potensi fatality/cedera berat):\n- Jarak dumping kurang dari 20m (rawa), 10m (air), 4-5m (kering)\n- Undercut\n"
+  },
+  {
+    "doc_id": "def_6_tidak_t",
+    "label": "6. Tidak terdapat pengawas/pengawas tidak memadai",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 6. Tidak terdapat pengawas/pengawas tidak memadai\n\nTemuan yang termasuk kategori ini:\n- Pengawas Tidak memiliki kompetensi yang memadai\n- Pengawas tidak mengisi checklist aktivitas awal shift (khususnya aktivitas kritis)\n- Pengawas ikut bekerja atau melakukan pekerjaan\n- Pengawas tidak melaksanakan SAP\n- Tidak ada pengawas/spotter/trafficman"
+  },
+  {
+    "doc_id": "kw_6_tidak_t",
+    "label": "6. Tidak terdapat pengawas/pengawas tidak memadai",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 6. Tidak terdapat pengawas/pengawas tidak memadai\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Tidak ada pengawas/spotter/trafficman\n- Pengawas Tidak memiliki kompetensi yang memadai\n- Pengawas tidak melaksanakan SAP\n- Pengawas tidak mengisi checklist aktivitas awal shift (khususnya aktivitas kritis)\n- Pengawas ikut bekerja atau melakukan pekerjaan\n"
+  },
+  {
+    "doc_id": "def_7_loto",
+    "label": "7. LOTO",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 7. LOTO\n\nTemuan yang termasuk kategori ini:\n- Tidak memasang LOTO/personal tag LOTO\n- Melepas LOTO pekerja lain\n- Tag LOTO Pudar / Rusak / Tidak Tersedia\n- Tidak mengisi Formulir LOTO\n- Kunci LOTO digantung tanpa dilepas pada Gembok\n- Mengoperasikan unit yang terdapat tanda perawatan"
+  },
+  {
+    "doc_id": "kw_7_loto",
+    "label": "7. LOTO",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 7. LOTO\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Tag LOTO Pudar / Rusak / Tidak Tersedia\n- Kunci LOTO digantung tanpa dilepas pada Gembok\n- Tidak mengisi Formulir LOTO\n\nIndikator Golden Rule (potensi fatality/cedera berat):\n- Tidak memasang LOTO/personal tag LOTO\n- Melepas LOTO pekerja lain\n- Mengoperasikan unit yang terdapat tanda perawatan\n"
+  },
+  {
+    "doc_id": "def_8_deviasi",
+    "label": "8. Deviasi Road Management",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 8. Deviasi Road Management\n\nTemuan yang termasuk kategori ini:\n- Tidak ada median pada persimpangan jalan\n- Superelevasi terbalik\n- Jalan Shortcut\n- Ketidaksesuaian Persimpangan (Simpang 5 atau Lebih)\n- Lebar Jalan Tidak Standard (Belum Selesai Construct / Maintenance tidak Berjalan) Tanpa Pengendalian\n- Tanggul area red zone tidak ada/tidak standar\n- Grade Jalan > 10% Tanpa Pengendalian\n- Akses Area yang Tidak Aktif Belum Ditutup\n- Terdapat Jalan Blindspot\n- Tidak ada tanggul pengaman\n- Jalan licin pasca hujan sudah digunakan sebelum slippery selesai"
+  },
+  {
+    "doc_id": "kw_8_deviasi",
+    "label": "8. Deviasi Road Management",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 8. Deviasi Road Management\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Akses Area yang Tidak Aktif Belum Ditutup\n- Jalan Shortcut\n- Ketidaksesuaian Persimpangan (Simpang 5 atau Lebih)\n- Tanggul area red zone tidak ada/tidak standar\n- Grade Jalan > 10% Tanpa Pengendalian\n- Jalan licin pasca hujan sudah digunakan sebelum slippery selesai\n- Tidak ada median pada persimpangan jalan\n- Terdapat Jalan Blindspot\n- Tidak ada tanggul pengaman\n- Lebar Jalan Tidak Standard (Belum Selesai Construct / Maintenance tidak Berjalan) Tanpa Pengendalian\n- Superelevasi terbalik\n"
+  },
+  {
+    "doc_id": "def_9_kesesua",
+    "label": "9. Kesesuaian Dokumen Kerja",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 9. Kesesuaian Dokumen Kerja\n\nTemuan yang termasuk kategori ini:\n- Bekerja tanpa ada JSA pekerjaan / tidak disosialisasikan\n- Pengawas tidak memiliki izin bekerja atau ketidaksesuaian actual di lapangan dengan yang ada pada IKK\n- Bekerja di ruang terbatas tanpa izin\n- Pekerja tidak memiliki izin bekerja atau ketidaksesuaian actual di lapangan dengan yang ada pada IKK\n- Ketersediaan atau Kesesuaian MPRP\n- Bekerja tidak mempunyai kompetensi / KIMPER / SIMPER yang sesuai\n- Tidak membawa ID Card / Memakai ID Card orang lain\n- Pekerjaan dilakukan tidak sesuai DOP / tidak ada DOP pekerjaan"
+  },
+  {
+    "doc_id": "kw_9_kesesua",
+    "label": "9. Kesesuaian Dokumen Kerja",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 9. Kesesuaian Dokumen Kerja\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Pekerjaan dilakukan tidak sesuai DOP / tidak ada DOP pekerjaan\n- Pengawas tidak memiliki izin bekerja atau ketidaksesuaian actual di lapangan dengan yang ada pada IKK\n- Tidak membawa ID Card / Memakai ID Card orang lain\n- Bekerja tidak mempunyai kompetensi / KIMPER / SIMPER yang sesuai\n- Pekerja tidak memiliki izin bekerja atau ketidaksesuaian actual di lapangan dengan yang ada pada IKK\n- Bekerja tanpa ada JSA pekerjaan / tidak disosialisasikan\n- Ketersediaan atau Kesesuaian MPRP\n\nIndikator Golden Rule (potensi fatality/cedera berat):\n- Bekerja tidak mempunyai kompetensi / KIMPER / SIMPER yang sesuai\n- Bekerja di ruang terbatas tanpa izin\n"
+  },
+  {
+    "doc_id": "def_10_tools_",
+    "label": "10. Tools Tidak Standard / Penggunaan Tools Tidak Tepat",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 10. Tools Tidak Standard / Penggunaan Tools Tidak Tepat\n\nTemuan yang termasuk kategori ini:\n- Modifikasi Tools tanpa Kajian/Sertifikasi\n- Tools yang digunakan tidak standard\n- Tidak terdapat pengaman tambahan untuk menahan/ menopang kabin unit yang sedang diperbaiki agar tidak jatuh\n- Penggunaan tools yang tidak sesuai peruntukkan\n- Penggunaan alat angkat pengganti yang tidak sesuai dan tidak memadai karena ketidaktersediaan overhead crane"
+  },
+  {
+    "doc_id": "kw_10_tools_",
+    "label": "10. Tools Tidak Standard / Penggunaan Tools Tidak Tepat",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 10. Tools Tidak Standard / Penggunaan Tools Tidak Tepat\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Tools yang digunakan tidak standard\n- Penggunaan tools yang tidak sesuai peruntukkan\n- Tidak terdapat pengaman tambahan untuk menahan/ menopang kabin unit yang sedang diperbaiki agar tidak jatuh\n- Modifikasi Tools tanpa Kajian/Sertifikasi\n\nIndikator Golden Rule (potensi fatality/cedera berat):\n- Tools yang digunakan tidak standard\n- Penggunaan tools yang tidak sesuai peruntukkan\n- Penggunaan alat angkat pengganti yang tidak sesuai dan tidak memadai karena ketidaktersediaan overhead crane\n"
+  },
+  {
+    "doc_id": "def_11_bahaya",
+    "label": "11. Bahaya Elektrikal",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 11. Bahaya Elektrikal\n\nTemuan yang termasuk kategori ini:\n- Instalasi listrik tidak standar\n- Perbaikan instalasi tanpa memutus aliran listrik\n- Tidak ada Barikade atau Penandaan pada Area Tegangan Tinggi\n- Potensi percikan api\n- Tidak terdapat pengecekan Instalasi Listrik"
+  },
+  {
+    "doc_id": "kw_11_bahaya",
+    "label": "11. Bahaya Elektrikal",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 11. Bahaya Elektrikal\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Tidak terdapat pengecekan Instalasi Listrik\n- Tidak ada Barikade atau Penandaan pada Area Tegangan Tinggi\n- Instalasi listrik tidak standar\n\nIndikator Golden Rule (potensi fatality/cedera berat):\n- Perbaikan instalasi tanpa memutus aliran listrik\n\nIndikator Incident (berkaitan langsung kejadian kecelakaan):\n- Potensi percikan api"
+  },
+  {
+    "doc_id": "def_12_bahaya",
+    "label": "12. Bahaya Biologis",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 12. Bahaya Biologis\n\nTemuan yang termasuk kategori ini:\n- Tidak tersedia serum anti bisa ular (SABU) di fasilitas kesehatan\n- Terdapat tanaman merambat yang lebat di area kerja yang berpotensi menjadi sarang ular\n- Tidak melaporkan kejadian tergigit ular kepada rekan kerja dan atasan, sehingga terjadi keterlambatan penanganan\n- Terdapat bahaya biologi yang belum terkendali (Pohon kering belum dilakukan pemotongan)\n- Tidak terdapat identifikasi bahaya biologis"
+  },
+  {
+    "doc_id": "kw_12_bahaya",
+    "label": "12. Bahaya Biologis",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 12. Bahaya Biologis\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Tidak terdapat identifikasi bahaya biologis\n- Terdapat tanaman merambat yang lebat di area kerja yang berpotensi menjadi sarang ular\n- Tidak tersedia serum anti bisa ular (SABU) di fasilitas kesehatan\n- Terdapat bahaya biologi yang belum terkendali (Pohon kering belum dilakukan pemotongan)\n\nIndikator Incident (berkaitan langsung kejadian kecelakaan):\n- Tidak melaporkan kejadian tergigit ular kepada rekan kerja dan atasan, sehingga terjadi keterlambatan penanganan"
+  },
+  {
+    "doc_id": "def_13_aktivi",
+    "label": "13. Aktivitas Drill and Blast",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 13. Aktivitas Drill and Blast\n\nTemuan yang termasuk kategori ini:\n- Tidak ada rambu parkir pada area drill & blast\n- Tidak ada area parkir area drill & blast\n- Penempatan aksesoris peledakan di area peledakan tidak aman\n- Barikade/Safety Line pada area drilling\n- Tidaka da pondok area sleepblast\n- Aktivitas charging berdekatan dengan aktivitas front loading\n- Lampu flip flop area sleepblast belum ada\n- Terdapat lubang panas di area peledakan\n- Terdapat lubang collapse/lumpur/miring\n- Tidak terdapat rambu atau bendera radius aman manusia\n- Pita batas radius peldakan/sleepblast tidak ada\n- Jarak lubang ledak terhadap jalan aktif terlalu dekat\n- Akses menuju lokasi peledakan/gudang handak tidak layak\n- Rambu aktivitas pengeboran tidak terpasang\n- Area maneuver unit MPU tidak memadai\n- Area parkir drill & blast tidak standar\n- Rambu aktivitas peledakan/peledakan tidur tidak terpasang\n- Permukaan kerja area peledakan tidak keras/kering\n- Tanggul lokasi peledakan tidak sesuai standar\n- Jarak unit bor terlalu dekat dengan unit MPU/peledakan\n- Mobilisasi Unit Drilling Machine Tanpa Menurunkan Drilling Mast\n- Berada di lokasi saat kondisi cuaca petir"
+  },
+  {
+    "doc_id": "kw_13_aktivi",
+    "label": "13. Aktivitas Drill and Blast",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 13. Aktivitas Drill and Blast\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Akses menuju lokasi peledakan/gudang handak tidak layak\n- Jarak unit bor terlalu dekat dengan unit MPU/peledakan\n- Tanggul lokasi peledakan tidak sesuai standar\n- Permukaan kerja area peledakan tidak keras/kering\n- Tidak ada area parkir area drill & blast\n- Area parkir drill & blast tidak standar\n- Tidak ada rambu parkir pada area drill & blast\n- Barikade/Safety Line pada area drilling\n- Rambu aktivitas pengeboran tidak terpasang\n- Penempatan aksesoris peledakan di area peledakan tidak aman\n- Area maneuver unit MPU tidak memadai\n- Terdapat lubang panas di area peledakan\n- Jarak lubang ledak terhadap jalan aktif terlalu dekat\n- Terdapat lubang collapse/lumpur/miring\n- Berada di lokasi saat kondisi cuaca petir\n- Pita batas radius peldakan/sleepblast tidak ada\n- Tidaka da pondok area sleepblast\n- Lampu flip flop area sleepblast belum ada\n- Rambu aktivitas peledakan/peledakan tidur tidak terpasang\n- Tidak terdapat rambu atau bendera radius aman manusia\n- Aktivitas charging berdekatan dengan aktivitas front loading\n- Mobilisasi Unit Drilling Machine Tanpa Menurunkan Drilling Mast\n"
+  },
+  {
+    "doc_id": "def_14_techno",
+    "label": "14. Technology",
+    "type": "definition",
+    "severity": "all",
+    "text": "Kategori bahaya: 14. Technology\n\nTemuan yang termasuk kategori ini:\n- Terdapat Area / Aktivitas Kritis yang Tidak Tercover oleh CCTV / Mining Eyes\n- P2H Control Room DMS / Mining Eyes tidak dilakukan"
+  },
+  {
+    "doc_id": "kw_14_techno",
+    "label": "14. Technology",
+    "type": "keywords_severity",
+    "severity": "layered",
+    "text": "Kategori bahaya: 14. Technology\n\nIndikator TBC (temuan standar, wajib ditindaklanjuti):\n- Terdapat Area / Aktivitas Kritis yang Tidak Tercover oleh CCTV / Mining Eyes\n- P2H Control Room DMS / Mining Eyes tidak dilakukan\n"
+  }
+]
